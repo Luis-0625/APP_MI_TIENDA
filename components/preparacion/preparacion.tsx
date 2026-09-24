@@ -22,11 +22,11 @@ import {
   RefreshCw,
   CalendarDays,
 } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Badge } from '@/components/jeralpos/badge'
-import { Input, Select, Label, Textarea } from '@/components/jeralpos/input'
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/jeralpos/card'
-import { Modal } from '@/components/jeralpos/modal'
+import { Button } from '@/components/app_mitienda/button'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Input, Select, Label, Textarea } from '@/components/app_mitienda/input'
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/app_mitienda/card'
+import { Modal } from '@/components/app_mitienda/modal'
 import { IndicatorCard } from '@/components/dashboard/indicator-card'
 import { ChartCard } from '@/components/reportes/charts'
 import {
@@ -36,7 +36,7 @@ import {
   TableRow,
   TableHead,
   TableCell,
-} from '@/components/jeralpos/table'
+} from '@/components/app_mitienda/table'
 import { cn } from '@/lib/utils'
 import {
   sectionGroups,

@@ -2,8 +2,8 @@
 
 import * as React from 'react'
 import { Minus, Plus, Trash2, ShoppingCart, Tag, X } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Input } from '@/components/jeralpos/input'
+import { Button } from '@/components/app_mitienda/button'
+import { Input } from '@/components/app_mitienda/input'
 import { cn } from '@/lib/utils'
 import {
   formatCurrency,

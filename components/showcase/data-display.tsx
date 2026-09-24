@@ -1,5 +1,5 @@
 import { Section } from './section'
-import { Badge } from '@/components/jeralpos/badge'
+import { Badge } from '@/components/app_mitienda/badge'
 import {
   Table,
   TableHeader,
@@ -7,7 +7,7 @@ import {
   TableRow,
   TableHead,
   TableCell,
-} from '@/components/jeralpos/table'
+} from '@/components/app_mitienda/table'
 
 const rows = [
   { id: '#10482', client: 'María González', total: '$128.40', method: 'Tarjeta', status: 'success', label: 'Pagado' },

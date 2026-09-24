@@ -1,5 +1,5 @@
 import { TrendingUp, TrendingDown, Minus } from 'lucide-react'
-import { Card, CardContent } from '@/components/jeralpos/card'
+import { Card, CardContent } from '@/components/app_mitienda/card'
 import { cn } from '@/lib/utils'
 import type { Indicator } from './mock-data'
 

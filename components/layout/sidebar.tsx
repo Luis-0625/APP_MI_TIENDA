@@ -3,7 +3,7 @@
 import * as React from 'react'
 import { ChevronDown, X } from 'lucide-react'
 import { cn } from '@/lib/utils'
-import { Logo } from '@/components/jeralpos/brand'
+import { Logo } from '@/components/app_mitienda/brand'
 import { navItems, type NavItem } from './nav-config'
 
 interface SidebarProps {

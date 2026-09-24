@@ -3,8 +3,8 @@
 import * as React from 'react'
 import { ImagePlus, X, Check, PackagePlus } from 'lucide-react'
 import { cn } from '@/lib/utils'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Textarea, Select, Label, FieldHint } from '@/components/jeralpos/input'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Textarea, Select, Label, FieldHint } from '@/components/app_mitienda/input'
 import { categories, brands, units } from './mock-data'
 
 interface ProductFormProps {

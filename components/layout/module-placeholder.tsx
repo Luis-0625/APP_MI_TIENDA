@@ -1,6 +1,6 @@
 import { LayoutGrid } from 'lucide-react'
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/jeralpos/card'
-import { Badge } from '@/components/jeralpos/badge'
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/app_mitienda/card'
+import { Badge } from '@/components/app_mitienda/badge'
 
 const stats = [
   { label: 'Ventas del día', value: '$18,420.00', hint: '+12% vs. ayer', tone: 'success' as const },

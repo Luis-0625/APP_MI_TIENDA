@@ -12,8 +12,8 @@ import {
   CalendarClock,
   Receipt,
 } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Badge } from '@/components/jeralpos/badge'
+import { Button } from '@/components/app_mitienda/button'
+import { Badge } from '@/components/app_mitienda/badge'
 import { cn } from '@/lib/utils'
 import {
   type CustomerCartera,

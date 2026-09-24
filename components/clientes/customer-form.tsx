@@ -3,8 +3,8 @@
 import * as React from 'react'
 import { UserPlus, Check } from 'lucide-react'
 import { cn } from '@/lib/utils'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Select, Label, FieldHint } from '@/components/jeralpos/input'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Select, Label, FieldHint } from '@/components/app_mitienda/input'
 import {
   cities,
   departments,

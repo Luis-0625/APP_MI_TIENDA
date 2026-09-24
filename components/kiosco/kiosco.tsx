@@ -2,8 +2,8 @@
 
 import * as React from 'react'
 import { Plus, Pencil, Power, Check, X, RefreshCw } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Badge } from '@/components/jeralpos/badge'
+import { Button } from '@/components/app_mitienda/button'
+import { Badge } from '@/components/app_mitienda/badge'
 import { IndicatorCard } from '@/components/dashboard/indicator-card'
 import {
   Table,
@@ -12,7 +12,7 @@ import {
   TableRow,
   TableHead,
   TableCell,
-} from '@/components/jeralpos/table'
+} from '@/components/app_mitienda/table'
 import { ChartCard } from '@/components/reportes/charts'
 import { cn } from '@/lib/utils'
 import {

@@ -2,9 +2,9 @@
 
 import * as React from 'react'
 import { ClipboardCheck, CheckCircle2, AlertTriangle, TrendingDown } from 'lucide-react'
-import { Modal } from '@/components/jeralpos/modal'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Label } from '@/components/jeralpos/input'
+import { Modal } from '@/components/app_mitienda/modal'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Label } from '@/components/app_mitienda/input'
 import { cn } from '@/lib/utils'
 import {
   formatCurrency,

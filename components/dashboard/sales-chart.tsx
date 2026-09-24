@@ -1,8 +1,8 @@
 'use client'
 
 import { useState } from 'react'
-import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/jeralpos/card'
-import { Badge } from '@/components/jeralpos/badge'
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/app_mitienda/card'
+import { Badge } from '@/components/app_mitienda/badge'
 import { salesLast7Days } from './mock-data'
 
 const currency = (n: number) =>

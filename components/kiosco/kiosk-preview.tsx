@@ -2,8 +2,8 @@
 
 import * as React from 'react'
 import { Plus, Minus, Trash2, ShoppingCart, ArrowLeft, Check, Utensils, ShoppingBag } from 'lucide-react'
-import { Logo } from '@/components/jeralpos/brand'
-import { Button } from '@/components/jeralpos/button'
+import { Logo } from '@/components/app_mitienda/brand'
+import { Button } from '@/components/app_mitienda/button'
 import { cn } from '@/lib/utils'
 import {
   kioskCategories,

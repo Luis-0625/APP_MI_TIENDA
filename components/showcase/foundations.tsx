@@ -1,5 +1,5 @@
 import { Section, Subhead } from './section'
-import { Card } from '@/components/jeralpos/card'
+import { Card } from '@/components/app_mitienda/card'
 
 function Swatch({
   name,

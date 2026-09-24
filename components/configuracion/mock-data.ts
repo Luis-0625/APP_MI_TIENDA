@@ -1,4 +1,4 @@
-import type { BadgeProps } from '@/components/jeralpos/badge'
+import type { BadgeProps } from '@/components/app_mitienda/badge'
 
 export type BadgeVariant = NonNullable<BadgeProps['variant']>
 

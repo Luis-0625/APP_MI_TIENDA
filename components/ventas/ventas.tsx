@@ -2,8 +2,8 @@
 
 import * as React from 'react'
 import { CheckCircle2 } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Modal } from '@/components/jeralpos/modal'
+import { Button } from '@/components/app_mitienda/button'
+import { Modal } from '@/components/app_mitienda/modal'
 import { ProductGrid } from './product-grid'
 import { CartPanel } from './cart-panel'
 import { PaymentModal } from './payment-modal'

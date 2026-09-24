@@ -14,8 +14,8 @@ import {
   LifeBuoy,
 } from 'lucide-react'
 import { cn } from '@/lib/utils'
-import { Input } from '@/components/jeralpos/input'
-import { Badge } from '@/components/jeralpos/badge'
+import { Input } from '@/components/app_mitienda/input'
+import { Badge } from '@/components/app_mitienda/badge'
 import { useDismiss } from '@/hooks/use-dismiss'
 
 export interface Crumb {

@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+build/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+public/**/*.png
+public/**/*.jpg
+public/**/*.jpeg
+public/**/*.svg
+public/**/*.ico
+.git/
+.gitignore
+.env
+.env.*

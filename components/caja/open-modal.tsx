@@ -2,9 +2,9 @@
 
 import * as React from 'react'
 import { LockOpen } from 'lucide-react'
-import { Modal } from '@/components/jeralpos/modal'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Select, Label, Textarea, FieldHint } from '@/components/jeralpos/input'
+import { Modal } from '@/components/app_mitienda/modal'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Select, Label, Textarea, FieldHint } from '@/components/app_mitienda/input'
 import { registers, branches, users, formatCurrency } from './mock-data'
 
 export interface OpenPayload {

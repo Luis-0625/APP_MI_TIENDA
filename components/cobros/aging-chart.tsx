@@ -1,7 +1,7 @@
 'use client'
 
 import * as React from 'react'
-import { Card, CardHeader, CardTitle, CardContent } from '@/components/jeralpos/card'
+import { Card, CardHeader, CardTitle, CardContent } from '@/components/app_mitienda/card'
 import { cn } from '@/lib/utils'
 import { type AgingBucket, formatCurrency } from './mock-data'
 

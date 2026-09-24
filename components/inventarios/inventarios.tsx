@@ -2,7 +2,7 @@
 
 import * as React from 'react'
 import { ArrowDownToLine, ArrowUpFromLine, SlidersHorizontal, ArrowLeftRight } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
+import { Button } from '@/components/app_mitienda/button'
 import { InventoryIndicators } from './indicators'
 import { AlertsPanel } from './alerts-panel'
 import { MovementsTable } from './movements-table'

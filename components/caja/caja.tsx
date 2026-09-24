@@ -23,11 +23,11 @@ import {
   CheckCircle2,
   History,
 } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Input } from '@/components/jeralpos/input'
-import { Badge } from '@/components/jeralpos/badge'
-import { Card } from '@/components/jeralpos/card'
-import { Modal } from '@/components/jeralpos/modal'
+import { Button } from '@/components/app_mitienda/button'
+import { Input } from '@/components/app_mitienda/input'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Card } from '@/components/app_mitienda/card'
+import { Modal } from '@/components/app_mitienda/modal'
 import {
   Table,
   TableHeader,
@@ -35,7 +35,7 @@ import {
   TableRow,
   TableHead,
   TableCell,
-} from '@/components/jeralpos/table'
+} from '@/components/app_mitienda/table'
 import { cn } from '@/lib/utils'
 import {
   currentSession,

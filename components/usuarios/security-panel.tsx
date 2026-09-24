@@ -14,9 +14,9 @@ import {
   XCircle,
   Clock,
 } from 'lucide-react'
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/jeralpos/card'
-import { Badge } from '@/components/jeralpos/badge'
-import { Button } from '@/components/jeralpos/button'
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/app_mitienda/card'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Button } from '@/components/app_mitienda/button'
 import { cn } from '@/lib/utils'
 import {
   activeSessions as seedSessions,

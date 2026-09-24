@@ -1,4 +1,4 @@
-import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/jeralpos/card'
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/app_mitienda/card'
 import { topProducts } from './mock-data'
 
 export function TopProducts() {

@@ -25,9 +25,9 @@ import {
   FileX,
   CheckCircle2,
 } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Select, Label } from '@/components/jeralpos/input'
-import { Badge } from '@/components/jeralpos/badge'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Select, Label } from '@/components/app_mitienda/input'
+import { Badge } from '@/components/app_mitienda/badge'
 import { IndicatorCard } from '@/components/dashboard/indicator-card'
 import type { Indicator } from '@/components/dashboard/mock-data'
 import {
@@ -37,7 +37,7 @@ import {
   TableRow,
   TableHead,
   TableCell,
-} from '@/components/jeralpos/table'
+} from '@/components/app_mitienda/table'
 import { cn } from '@/lib/utils'
 import {
   receivables as seedReceivables,

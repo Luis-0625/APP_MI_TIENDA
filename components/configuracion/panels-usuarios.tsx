@@ -2,10 +2,10 @@
 
 import * as React from 'react'
 import { Plus, Pencil, Users, ChevronRight, Info } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Badge } from '@/components/jeralpos/badge'
-import { Input, Label } from '@/components/jeralpos/input'
-import { Card, CardContent } from '@/components/jeralpos/card'
+import { Button } from '@/components/app_mitienda/button'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Input, Label } from '@/components/app_mitienda/input'
+import { Card, CardContent } from '@/components/app_mitienda/card'
 import {
   SectionHeader,
   Toggle,

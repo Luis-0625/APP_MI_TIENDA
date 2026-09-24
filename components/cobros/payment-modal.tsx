@@ -2,10 +2,10 @@
 
 import * as React from 'react'
 import { CircleDollarSign, CheckCircle2, AlertTriangle } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Select, Label, Textarea } from '@/components/jeralpos/input'
-import { Modal } from '@/components/jeralpos/modal'
-import { Badge } from '@/components/jeralpos/badge'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Select, Label, Textarea } from '@/components/app_mitienda/input'
+import { Modal } from '@/components/app_mitienda/modal'
+import { Badge } from '@/components/app_mitienda/badge'
 import { cn } from '@/lib/utils'
 import {
   type Receivable,

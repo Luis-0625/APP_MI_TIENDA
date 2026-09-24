@@ -2,8 +2,8 @@
 
 import * as React from 'react'
 import { Clock, Play, Check, Truck, CircleDot } from 'lucide-react'
-import { Modal } from '@/components/jeralpos/modal'
-import { Badge } from '@/components/jeralpos/badge'
+import { Modal } from '@/components/app_mitienda/modal'
+import { Badge } from '@/components/app_mitienda/badge'
 import { cn } from '@/lib/utils'
 import {
   orderStatusLabel,

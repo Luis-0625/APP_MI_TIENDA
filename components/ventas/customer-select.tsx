@@ -2,9 +2,9 @@
 
 import * as React from 'react'
 import { User, ChevronDown, Search, UserPlus, Check } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Label } from '@/components/jeralpos/input'
-import { Modal } from '@/components/jeralpos/modal'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Label } from '@/components/app_mitienda/input'
+import { Modal } from '@/components/app_mitienda/modal'
 import { cn } from '@/lib/utils'
 import { FINAL_CONSUMER, type Customer } from './mock-data'
 

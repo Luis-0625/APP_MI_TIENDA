@@ -1,9 +1,9 @@
 'use client'
 
 import * as React from 'react'
-import { Modal } from '@/components/jeralpos/modal'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Select, Label, FieldHint } from '@/components/jeralpos/input'
+import { Modal } from '@/components/app_mitienda/modal'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Select, Label, FieldHint } from '@/components/app_mitienda/input'
 import { cn } from '@/lib/utils'
 import {
   branches,

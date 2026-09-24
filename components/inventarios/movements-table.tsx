@@ -2,9 +2,9 @@
 
 import * as React from 'react'
 import { Search } from 'lucide-react'
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/jeralpos/card'
-import { Badge } from '@/components/jeralpos/badge'
-import { Input, Select } from '@/components/jeralpos/input'
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/app_mitienda/card'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Input, Select } from '@/components/app_mitienda/input'
 import {
   Table,
   TableBody,
@@ -12,7 +12,7 @@ import {
   TableHead,
   TableHeader,
   TableRow,
-} from '@/components/jeralpos/table'
+} from '@/components/app_mitienda/table'
 import {
   movements,
   movementTypeMeta,

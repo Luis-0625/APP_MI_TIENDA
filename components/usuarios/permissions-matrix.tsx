@@ -2,9 +2,9 @@
 
 import * as React from 'react'
 import { Save, RotateCcw, Users } from 'lucide-react'
-import { Card } from '@/components/jeralpos/card'
-import { Badge } from '@/components/jeralpos/badge'
-import { Button } from '@/components/jeralpos/button'
+import { Card } from '@/components/app_mitienda/card'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Button } from '@/components/app_mitienda/button'
 import { cn } from '@/lib/utils'
 import {
   roles as seedRoles,

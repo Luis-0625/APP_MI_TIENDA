@@ -1,7 +1,7 @@
 import { AlertTriangle, PackageX } from 'lucide-react'
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/jeralpos/card'
-import { Badge } from '@/components/jeralpos/badge'
-import { Button } from '@/components/jeralpos/button'
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/app_mitienda/card'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Button } from '@/components/app_mitienda/button'
 import { lowStockProducts, outOfStockProducts, type Product } from './mock-data'
 
 function AlertRow({

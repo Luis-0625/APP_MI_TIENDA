@@ -1,8 +1,8 @@
 import { Search, Plus, Trash2, Check, DollarSign, Package, TrendingUp } from 'lucide-react'
 import { Section, Subhead } from './section'
-import { Button } from '@/components/jeralpos/button'
-import { Badge } from '@/components/jeralpos/badge'
-import { Input, Label, Select, Textarea, FieldHint } from '@/components/jeralpos/input'
+import { Button } from '@/components/app_mitienda/button'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Input, Label, Select, Textarea, FieldHint } from '@/components/app_mitienda/input'
 import {
   Card,
   CardHeader,
@@ -10,7 +10,7 @@ import {
   CardDescription,
   CardContent,
   CardFooter,
-} from '@/components/jeralpos/card'
+} from '@/components/app_mitienda/card'
 
 export function ComponentsGallery() {
   return (

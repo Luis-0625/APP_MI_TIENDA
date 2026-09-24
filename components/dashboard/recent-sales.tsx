@@ -1,5 +1,5 @@
-import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/jeralpos/card'
-import { Badge } from '@/components/jeralpos/badge'
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/app_mitienda/card'
+import { Badge } from '@/components/app_mitienda/badge'
 import {
   Table,
   TableHeader,
@@ -7,7 +7,7 @@ import {
   TableRow,
   TableHead,
   TableCell,
-} from '@/components/jeralpos/table'
+} from '@/components/app_mitienda/table'
 import { recentSales, statusConfig } from './mock-data'
 
 export function RecentSales() {

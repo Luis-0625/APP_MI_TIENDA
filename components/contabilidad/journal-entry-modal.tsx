@@ -2,9 +2,9 @@
 
 import * as React from 'react'
 import { Plus, Trash2, CheckCircle2, AlertTriangle } from 'lucide-react'
-import { Modal } from '@/components/jeralpos/modal'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Select, Label } from '@/components/jeralpos/input'
+import { Modal } from '@/components/app_mitienda/modal'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Select, Label } from '@/components/app_mitienda/input'
 import { cn } from '@/lib/utils'
 import {
   accountOptions,

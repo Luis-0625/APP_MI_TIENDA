@@ -14,8 +14,8 @@ import {
   Pencil,
   FileText,
 } from 'lucide-react'
-import { Badge } from '@/components/jeralpos/badge'
-import { Button } from '@/components/jeralpos/button'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Button } from '@/components/app_mitienda/button'
 import {
   Table,
   TableHeader,
@@ -23,7 +23,7 @@ import {
   TableRow,
   TableHead,
   TableCell,
-} from '@/components/jeralpos/table'
+} from '@/components/app_mitienda/table'
 import { cn } from '@/lib/utils'
 import {
   supplierInitials,

@@ -20,10 +20,10 @@ import {
   CheckCircle2,
   XCircle,
 } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Select } from '@/components/jeralpos/input'
-import { Badge } from '@/components/jeralpos/badge'
-import { Modal } from '@/components/jeralpos/modal'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Select } from '@/components/app_mitienda/input'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Modal } from '@/components/app_mitienda/modal'
 import { IndicatorCard } from '@/components/dashboard/indicator-card'
 import type { Indicator } from '@/components/dashboard/mock-data'
 import {
@@ -34,12 +34,12 @@ import {
   TableHead,
   TableCell,
   TableSkeleton,
-} from '@/components/jeralpos/table'
-import { EntityAvatar } from '@/components/jeralpos/avatar'
-import { SortButton } from '@/components/jeralpos/sort-button'
-import { RowActionsMenu } from '@/components/jeralpos/row-actions'
-import { Pagination } from '@/components/jeralpos/pagination'
-import { DataToast } from '@/components/jeralpos/data-toast'
+} from '@/components/app_mitienda/table'
+import { EntityAvatar } from '@/components/app_mitienda/avatar'
+import { SortButton } from '@/components/app_mitienda/sort-button'
+import { RowActionsMenu } from '@/components/app_mitienda/row-actions'
+import { Pagination } from '@/components/app_mitienda/pagination'
+import { DataToast } from '@/components/app_mitienda/data-toast'
 import { cn } from '@/lib/utils'
 import {
   employees as seedEmployees,

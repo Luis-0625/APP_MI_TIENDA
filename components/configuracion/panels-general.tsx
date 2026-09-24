@@ -2,9 +2,9 @@
 
 import * as React from 'react'
 import { Building2, Upload, Trash2, Info } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Select, Label, Textarea } from '@/components/jeralpos/input'
-import { Card, CardContent } from '@/components/jeralpos/card'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Select, Label, Textarea } from '@/components/app_mitienda/input'
+import { Card, CardContent } from '@/components/app_mitienda/card'
 import {
   SectionHeader,
   FieldGrid,

@@ -2,9 +2,9 @@
 
 import * as React from 'react'
 import { Plus, Pencil, Trash2 } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Badge } from '@/components/jeralpos/badge'
-import { Card, CardContent } from '@/components/jeralpos/card'
+import { Button } from '@/components/app_mitienda/button'
+import { Badge } from '@/components/app_mitienda/badge'
+import { Card, CardContent } from '@/components/app_mitienda/card'
 import {
   Table,
   TableHeader,
@@ -12,7 +12,7 @@ import {
   TableRow,
   TableHead,
   TableCell,
-} from '@/components/jeralpos/table'
+} from '@/components/app_mitienda/table'
 import { SectionHeader, Toggle, SettingRow, DividedList } from './settings-ui'
 import {
   paymentMethods as seedPayment,

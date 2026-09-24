@@ -2,8 +2,8 @@
 
 import * as React from 'react'
 import { Plus, Pencil, Trash2 } from 'lucide-react'
-import { Button } from '@/components/jeralpos/button'
-import { Badge } from '@/components/jeralpos/badge'
+import { Button } from '@/components/app_mitienda/button'
+import { Badge } from '@/components/app_mitienda/badge'
 import {
   Table,
   TableHeader,
@@ -11,7 +11,7 @@ import {
   TableRow,
   TableHead,
   TableCell,
-} from '@/components/jeralpos/table'
+} from '@/components/app_mitienda/table'
 import { SectionHeader, Toggle } from './settings-ui'
 import { branches as seedBranches, registers as seedRegisters, type Branch, type Register } from './mock-data'
 

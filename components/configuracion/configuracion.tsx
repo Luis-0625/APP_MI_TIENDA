@@ -3,7 +3,7 @@
 import * as React from 'react'
 import { Search, Settings2, X, ChevronRight, Check, AlertCircle } from 'lucide-react'
 import { cn } from '@/lib/utils'
-import { Input } from '@/components/jeralpos/input'
+import { Input } from '@/components/app_mitienda/input'
 import { SettingsNav, sectionMeta, navGroups } from './settings-nav'
 import type { SectionId } from './mock-data'
 import { EmpresaPanel, LogoPanel, ContactoPanel, RegionalPanel } from './panels-general'

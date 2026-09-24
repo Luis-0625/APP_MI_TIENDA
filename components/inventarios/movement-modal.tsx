@@ -1,9 +1,9 @@
 'use client'
 
 import * as React from 'react'
-import { Modal } from '@/components/jeralpos/modal'
-import { Button } from '@/components/jeralpos/button'
-import { Input, Label, Select, Textarea, FieldHint } from '@/components/jeralpos/input'
+import { Modal } from '@/components/app_mitienda/modal'
+import { Button } from '@/components/app_mitienda/button'
+import { Input, Label, Select, Textarea, FieldHint } from '@/components/app_mitienda/input'
 import { products, movementTypeMeta, type MovementType } from './mock-data'
 
 export interface MovementAction {

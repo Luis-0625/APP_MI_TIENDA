@@ -2,8 +2,8 @@
 
 import * as React from 'react'
 import { Search, Package, Plus } from 'lucide-react'
-import { Input } from '@/components/jeralpos/input'
-import { Badge } from '@/components/jeralpos/badge'
+import { Input } from '@/components/app_mitienda/input'
+import { Badge } from '@/components/app_mitienda/badge'
 import { cn } from '@/lib/utils'
 import {
   posProducts,

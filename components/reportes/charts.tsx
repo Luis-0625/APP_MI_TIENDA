@@ -2,7 +2,7 @@
 
 import * as React from 'react'
 import { cn } from '@/lib/utils'
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/jeralpos/card'
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/app_mitienda/card'
 import { formatValue, type ChartSpec, type ValueFormat } from './mock-data'
 
 /** Theme-aware palette backed by the design-system chart tokens. */
